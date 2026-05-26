@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* Custom Luxury French Riviera Brand Colors (Patoune d'Or) */
+  --color-riviera-azure: #FE5353;       /* Main Brand Coral/Red */
+  --color-riviera-light: #FFF3F3;       /* Delicate soft coral light tint bg */
+  --color-riviera-gold: #C29631;        /* Champagne gold of the Monaco sun */
+  --color-riviera-sand: #F7EBC6;        /* Warm sand of Cannes private beaches */
+  --color-riviera-deep: #DE3B3B;        /* Deep brand coral/red for hover and main accents */
+  --color-riviera-terracotta: #CE654F;  /* Warm clay facades of Old Nice */
+  --color-villa-cream: #FDFBF7;         /* High-end warm villa marble/stone background */
+  --color-charcoal-luxe: #1C2427;       /* Rich luxurious slate charcoal */
+}
+
+@keyframes marquee {
+  0% { transform: translate3d(0, 0, 0); }
+  100% { transform: translate3d(-50%, 0, 0); }
+}
+
+.animate-marquee {
+  animation: marquee 35s linear infinite;
+}
+
+/* Pause scroll animation on mouse hover for high usability */
+.animate-marquee:hover {
+  animation-play-state: paused;
+}

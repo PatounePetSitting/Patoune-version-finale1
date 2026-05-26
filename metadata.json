@@ -1,0 +1,6 @@
+{
+  "name": "Patoune Nice Cannes Monaco",
+  "description": "Service de garde d'animaux (pet sitting) de prestige à Nice, Cannes et Monaco. Calendrier d'indisponibilités interactif, système de réservation ultra-simplifié, tarifs détaillés, galerie photos d'animaux heureux et blog SEO bilingue (FR/EN).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

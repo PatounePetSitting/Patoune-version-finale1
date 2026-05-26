@@ -1,0 +1,200 @@
+export const translations = {
+  fr: {
+    brand: "Patoune",
+    slogan: "Pet sitting d'excellence à Nice, Cannes & Monaco",
+    tagline: "Garde d'animaux de compagnie à domicile et visites sur-mesure sur la Côte d'Azur.",
+    navHome: "Accueil",
+    navAbout: "Qui suis-je ?",
+    navPaws: "Nos Patounes",
+    navServices: "Nos Tarifs",
+    navCalendar: "Disponibilités",
+    navPrestige: "Prestige & Chats",
+    navGallery: "Galerie",
+    navInstagram: "Instagram",
+    navBlog: "Conseils & Blog",
+    navConcierge: "💼 Espace Pro (Tarifs Hôtels & Yachts)",
+    navBooking: "Nous Contacter",
+    langCode: "EN",
+    
+    // Hero
+    heroTitle: "L'amour et le confort pour vos compagnons",
+    heroSubtitle: "Pet sitting professionnel de prestige sur la Côte d'Azur. De Nice à Monaco, confiez vos trésors à des mains expertes et passionnées.",
+    heroCtas: "Nous Contacter",
+    heroAvailability: "Vérifier mes disponibilités",
+    statClients: "Clients Heureux",
+    statVisits: "Visites Réalisées",
+    statReviews: "Avis Étoilés",
+    
+    // Services / Tarifs
+    pricingTitle: "Des Tarifs Clairs et Sans Surprise",
+    pricingSubtitle: "Des formules adaptées aux besoins de votre animal. Chaque service inclut des nouvelles quotidiennes avec photos et vidéos.",
+    popularTag: "Le plus demandé",
+    bookBtn: "Choisir cette formule",
+    pricingNote: "* Tous nos tarifs incluent les frais de déplacement dans les zones de Nice, Cannes et Monaco. Des frais de carburant légers peuvent s'appliquer au-delà.",
+    
+    // Calendar
+    calendarTitle: "Calendrier de Disponibilités",
+    calendarSubtitle: "Consultez mes périodes de disponibilité en temps réel pour planifier sereinement vos absences. Cliquez sur un jour disponible pour réserver !",
+    calAvailable: "Disponible",
+    calLimited: "Limité",
+    calFull: "Indisponible",
+    calLegend: "Légende",
+    calMonthPrev: "Mois précédent",
+    calMonthNext: "Mois suivant",
+    
+    // Booking Form
+    bookingTitle: "Réservation Ultra-Simplifiée",
+    bookingSubtitle: "Une demande en moins de 60 secondes. Pas de création de compte nécessaire. Simple, rapide, humain.",
+    formOwnerName: "Votre Nom Complet",
+    formPetName: "Nom de votre animal",
+    formPetType: "Type d'animal",
+    formPetDog: "Chien 🐶",
+    formPetCat: "Chat 🐱",
+    formPetOther: "Autre NAC 🐹",
+    formEmail: "Adresse Email",
+    formPhone: "Numéro de Téléphone",
+    formCity: "Votre Ville (Côte d'Azur)",
+    formSelectCity: "Sélectionnez une ville",
+    formStartDate: "Date de début",
+    formEndDate: "Date de fin",
+    formServiceType: "Formule souhaitée",
+    formNotes: "Instructions ou détails importants (comportement, traitement...)",
+    formNotesPlaceholder: "Ex: Mon chat a besoin de prendre un comprimé à 8h...",
+    formSubmit: "Soumettre ma demande de réservation",
+    formSubmitting: "Envoi en cours...",
+    formSuccessTitle: "Demande reçue !",
+    formSuccessMsg: "Merci ! Votre réservation a été enregistrée avec succès. Je vous recontacterai sous 2 heures.",
+    formClose: "Fermer",
+    
+    // Testimonials
+    reviewsTitle: "Vos Animaux nous Adorent, Leurs Maîtres aussi",
+    reviewsSubtitle: "Découvrez les avis de nos clients fidèles à Nice, Cannes et Monaco. Des retours 100% authentiques.",
+    verifiedOwner: "Propriétaire vérifié",
+    
+    // Gallery
+    galleryTitle: "Notre Galerie de Moments Heureux",
+    gallerySubtitle: "Des chiens joueurs, des chats comblés et des moments de pure tendresse capturés lors de nos gardes.",
+    galAll: "Tous",
+    galDogs: "Chiens",
+    galCats: "Chats",
+    galMoments: "Moments câlins",
+    
+    // Blog
+    blogTitle: "Articles & Conseils de Patoune",
+    blogSubtitle: "Conseils de soin, astuces de garde et secrets de la Côte d'Azur pour des compagnons en pleine santé.",
+    readMore: "Lire l'article complet",
+    backToBlog: "Retour aux articles",
+    draftTitle: "Rédiger un article de blog",
+    draftDesc: "Publiez un nouvel article sur votre blog.",
+    draftBtn: "+ Créer un article de blog",
+    draftPostTitle: "Titre de l'article",
+    draftPostContent: "Contenu de l'article (Markdown supporté)",
+    draftKeyWords: "Thématiques & Mots-clés",
+    draftPublish: "Publier l'article",
+    seoRating: "Score de lisibilité de l'article",
+    
+    // Footer
+    footerDesc: "Service de pet sitting de confiance sur la Côte d'Azur. Nice - Cannes - Monaco et alentours.",
+    footerCopyright: "© 2026 Patoune Nice Cannes Monaco. Tous droits réservés.",
+    footerLinks: "Mentions Légales"
+  },
+  en: {
+    brand: "Patoune",
+    slogan: "Excellent Pet Sitting in Nice, Cannes & Monaco",
+    tagline: "Tailored pet sitting, home visits, and walks on the beautiful French Riviera.",
+    navHome: "Home",
+    navAbout: "About Me",
+    navPaws: "Loyal Paws",
+    navServices: "Our Pricing",
+    navCalendar: "Availability",
+    navPrestige: "Prestige & Cats",
+    navGallery: "Gallery",
+    navInstagram: "Instagram Feed",
+    navBlog: "Advice & Blog",
+    navConcierge: "💼 Espace Pro (Yacht & Hotel Rates)",
+    navBooking: "Contact Us",
+    langCode: "FR",
+    
+    // Hero
+    heroTitle: "Love & Comfort for Your Furry Friends",
+    heroSubtitle: "Premium professional pet sitting on the French Riviera. From Nice to Monaco, trust your precious companions to expert and loving hands.",
+    heroCtas: "Contact Us",
+    heroAvailability: "Check My Free Dates",
+    statClients: "Happy Pets",
+    statVisits: "Completed Visits",
+    statReviews: "5-Star Ratings",
+    
+    // Services / Tarifs
+    pricingTitle: "Transparent & Clear Pricing",
+    pricingSubtitle: "Formulas tailored to your animal's lifestyle. Every service includes daily news, photos, and video updates.",
+    popularTag: "Most Popular",
+    bookBtn: "Choose this plan",
+    pricingNote: "* All our prices include travel fees in Nice, Cannes, and Monaco. Light fuel surcharges may apply for locations beyond.",
+    
+    // Calendar
+    calendarTitle: "Availability Calendar",
+    calendarSubtitle: "See our open and booked schedules in real-time to plan your vacations with confidence. Click on an available day to book!",
+    calAvailable: "Available",
+    calLimited: "Limited",
+    calFull: "Fully Booked",
+    calLegend: "Legend",
+    calMonthPrev: "Previous month",
+    calMonthNext: "Next month",
+    
+    // Booking Form
+    bookingTitle: "Ultra-Simplified Booking Form",
+    bookingSubtitle: "Submit a request in under 60 seconds. No registration required. Fast, easy, human.",
+    formOwnerName: "Your Full Name",
+    formPetName: "Pet's Name",
+    formPetType: "Pet Type",
+    formPetDog: "Dog 🐶",
+    formPetCat: "Cat 🐱",
+    formPetOther: "Other Small Pet 🐹",
+    formEmail: "Email Address",
+    formPhone: "Phone Number",
+    formCity: "Your City (French Riviera)",
+    formSelectCity: "Select your city",
+    formStartDate: "Start Date",
+    formEndDate: "End Date",
+    formServiceType: "Selected Package",
+    formNotes: "Special instructions or important details (mads, behavior...)",
+    formNotesPlaceholder: "E.g.: My cat needs her medication pill at 8 AM...",
+    formSubmit: "Submit My Booking Request",
+    formSubmitting: "Submitting...",
+    formSuccessTitle: "Request Received!",
+    formSuccessMsg: "Thank you! Your booking has been successfully recorded. I will contact you within 2 hours.",
+    formClose: "Close",
+    
+    // Testimonials
+    reviewsTitle: "Pets Adore Us, Owners Do Too",
+    reviewsSubtitle: "Discover genuine feedback and testimonials from our loyal clients in Nice, Cannes, and Monaco.",
+    verifiedOwner: "Verified Owner",
+    
+    // Gallery
+    galleryTitle: "Our Happiest Moments Gallery",
+    gallerySubtitle: "Playful dogs, content cats, and tender cuddles captured during our sitting sessions.",
+    galAll: "All",
+    galDogs: "Dogs",
+    galCats: "Cats",
+    galMoments: "Cuddle times",
+    
+    // Blog
+    blogTitle: "Patoune's Sitting Blog",
+    blogSubtitle: "Care tips, premium sitting advice, and French Riviera local pet secrets to keep them thriving and happy.",
+    readMore: "Read full article",
+    backToBlog: "Back to blog list",
+    draftTitle: "Write a blog post",
+    draftDesc: "Publish a new helpful post or advice piece on your blog.",
+    draftBtn: "+ Create Blog Post",
+    draftPostTitle: "Post Title",
+    draftPostContent: "Post Content (Markdown supported)",
+    draftKeyWords: "Tags & Keywords (separated by commas)",
+    draftPublish: "Publish Post",
+    seoRating: "Article Readability Score",
+    
+    // Footer
+    footerDesc: "Trusted pet sitting services on the French Riviera. Serving Nice, Cannes, Monaco and surroundings.",
+    footerCopyright: "© 2026 Patoune Nice Cannes Monaco. All rights reserved.",
+    footerLinks: "Legal Terms"
+  }
+};
